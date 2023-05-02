@@ -8,10 +8,10 @@ function media(){
 
     if(media >= 6)
      if(media==10)
-      alert("Uau! Aluno aprovado com distinção!" +media);
+      alert("Uau! Aluno aprovado com distinção! Média: " +media);
      else
-      alert("Aluno aprovado! Media" +media);
+      alert("Aluno aprovado! Média: " +media);
     else
-     alert("Aluno reprovado!" +media)
+     alert("Aluno reprovado! Média: " +media)
 
    }
